@@ -8,7 +8,6 @@ def fibonacci_generator(n):
         c=a+b
         a=b
         b=c
-        
         print(c,end=" ")
     return("\nThis is the fibonacci generator")
 #Example code
